@@ -1,5 +1,5 @@
 # JobScheduler
-####**Assignment 1 - Question 2**
+####Assignment 1 - Question 2
 
 Design a class JobScheduler to simulate FCFS (First Come First Serve) scheduling algorithm. 
 FCFS means the process which arrives first, gets executed first. 
