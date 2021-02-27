@@ -1,5 +1,5 @@
 # JobScheduler
-**Assignment 1 - Question 2**
+####**Assignment 1 - Question 2**
 
 Design a class JobScheduler to simulate FCFS (First Come First Serve) scheduling algorithm. 
 FCFS means the process which arrives first, gets executed first. 
@@ -18,3 +18,12 @@ Define methods to perform following operations:
 * Calculate turn around time for each process.
 * Average waiting time of processes.
 * Maximum waiting time period for a process in queue.
+
+
+#### Custom Input
+![Image of Input](https://github.com/meta-arpita-kothari/JobScheduler/blob/main/input_output_img/ass1_input.png)
+
+
+
+#### Output of the program
+![Image of Input](https://github.com/meta-arpita-kothari/JobScheduler/blob/main/input_output_img/ass1_output.png)
